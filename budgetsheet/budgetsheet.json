@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "g1",
+        "BudgetItems": [
+            {
+                "ID": "38b29e68-3a0c-4df3-b1e0-a1a28a05a49b",
+                "Name": "拆除",
+                "Expression": "拆除立面面积*2800/300",
+                "Configuration": "1",
+                "Raito":0.000001,
+                "Format":"{0:f2}平米"
+            },
+            {
+                "ID": "23786733-635b-4e25-9b55-eaacf9ae03f9",
+                "Name": "面积",
+                "Expression": "拆除立面面积*棚高/墙厚300",
+                "Configuration": "1"
+            },
+            {
+                "ID": "49c25a75-9200-46a4-b7c0-c2abcabddde4",
+                "Name": "面积2",
+                "Expression": "(拆除立面面积*棚高/墙厚300)*面积比例",
+                "Configuration": "1"
+            },
+            {
+                "ID": "6b107f3a-18fb-4fb0-8df9-07157f87c7b8",
+                "Name": "地板",
+                "Expression": "房间面积*0.000001",
+                "Configuration": "1"
+            },
+            {
+                "ID": "25ac8ab4-5f9a-47eb-9d77-b371b85742f5",
+                "Name": "自流平",
+                "Expression": "房间面积*0.000001",
+                "Configuration": "2"
+            },
+            {
+                "ID": "f8df8ed7-4dd8-4c75-ba8c-d8c09e3456c6",
+                "Name": "踢脚线",
+                "Expression": "房间周长*0.001",
+                "Configuration": "2"
+            }
+        ]
+    },
+    {
+        "Name": "卧室",
+        "BudgetItems": [
+        ]
+    }
+]

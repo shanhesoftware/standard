@@ -1,0 +1,10 @@
+{
+    "EntityTypeName": "Dwg",
+    "DwgFileName":"节点图.dwg",
+    "LayoutNames":[
+        "布局1"
+    ],
+    "BasePointX":-168730.6421,
+    "BasePointY":144245.4110,
+    "BasePointZ":0
+}

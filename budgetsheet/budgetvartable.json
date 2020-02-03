@@ -1,0 +1,41 @@
+{
+    "$type": "System.Collections.Generic.List`1[[sh.Creator.ViewModels.BudgetSheet.BudgetVar, sh.Creator]], mscorlib",
+    "$values": [
+        {
+            "$type": "sh.Creator.ViewModels.BudgetSheet.BudgetVarString, sh.Creator",
+            "EcjJsonString": "{\"EntityTypeName\":\"Polyline\",\"ColorIndex\":256,\"LayerName\":\"0\",\"Data\":{}}",
+            "Name": "拆除立面面积",
+            "Method": "Area"
+        },
+        {
+            "$type": "sh.Creator.ViewModels.BudgetSheet.BudgetVarDouble, sh.Creator",
+            "Constant": 2800.0,
+            "Name": "棚高",
+            "Method": "Value"
+        },
+        {
+            "$type": "sh.Creator.ViewModels.BudgetSheet.BudgetVarDouble, sh.Creator",
+            "Constant": 300.0,
+            "Name": "墙厚300",
+            "Method": "Value"
+        },
+        {
+            "$type": "sh.Creator.ViewModels.BudgetSheet.BudgetVarDouble, sh.Creator",
+            "Constant": 1E-06,
+            "Name": "面积比例",
+            "Method": "Value"
+        },
+        {
+            "$type": "sh.Creator.ViewModels.BudgetSheet.BudgetVarString, sh.Creator",
+            "EcjJsonString": "{\"EntityTypeName\":\"Polyline\",\"ColorIndex\":256,\"LayerName\":\"0\",\"Data\":{}}",
+            "Name": "房间面积",
+            "Method": "Area"
+        },
+        {
+            "$type": "sh.Creator.ViewModels.BudgetSheet.BudgetVarString, sh.Creator",
+            "EcjJsonString": "{\"EntityTypeName\":\"Polyline\",\"ColorIndex\":256,\"LayerName\":\"0\",\"Data\":{}}",
+            "Name": "房间周长",
+            "Method": "Length"
+        }
+    ]
+}

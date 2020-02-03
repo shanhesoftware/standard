@@ -1,0 +1,10 @@
+{
+    "EntityTypeName": "Layout",
+    "DwgFileName": "天花节点.dwg",
+    "LayoutName": "天花节点",
+    "BasePoint": {
+        "X": -168730.6421,
+        "Y": 144245.4110,
+        "Z": 0
+    }
+}
